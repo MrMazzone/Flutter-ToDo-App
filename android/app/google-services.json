@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687845973173",
+    "project_id": "to-do-nqtmxl",
+    "storage_bucket": "to-do-nqtmxl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687845973173:android:6daab3587fd02c7d69f2fc",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc05Gyvd-vnJHrGWrAijo8hwNKOXIzcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
